@@ -3,7 +3,6 @@
 Soy estudiante de programación.
 
 ## Habilidades Técnicas
-
 - Git
 - GitHub
 - Visual Studio Code
